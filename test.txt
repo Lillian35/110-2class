@@ -1,0 +1,20 @@
+    int ss=5;
+    int ww=3;
+    if (ss+ww>10)
+    {
+        Console.WriteLine("The answer is greater than 10")
+    }
+int ml=6;
+int mi=3;
+if(ml+mi>15)
+{
+    Console.WriteLine ("The ansewr is greater than 15");
+}
+else if (ml+mi>10)
+{
+    Console.WriteLine("The answer is between 15 and 10");
+}
+else
+{
+    Console.WriteLine ("The answer is not greater than 10");
+}
